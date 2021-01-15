@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/harsh212/meet_app.git/static/css/main.e87468e7.chunk.css",
+    "main.js": "/harsh212/meet_app.git/static/js/main.2e0b40ad.chunk.js",
+    "main.js.map": "/harsh212/meet_app.git/static/js/main.2e0b40ad.chunk.js.map",
+    "runtime-main.js": "/harsh212/meet_app.git/static/js/runtime-main.58bab4b3.js",
+    "runtime-main.js.map": "/harsh212/meet_app.git/static/js/runtime-main.58bab4b3.js.map",
+    "static/js/2.bb2630e9.chunk.js": "/harsh212/meet_app.git/static/js/2.bb2630e9.chunk.js",
+    "static/js/2.bb2630e9.chunk.js.map": "/harsh212/meet_app.git/static/js/2.bb2630e9.chunk.js.map",
+    "index.html": "/harsh212/meet_app.git/index.html",
+    "static/css/main.e87468e7.chunk.css.map": "/harsh212/meet_app.git/static/css/main.e87468e7.chunk.css.map",
+    "static/js/2.bb2630e9.chunk.js.LICENSE.txt": "/harsh212/meet_app.git/static/js/2.bb2630e9.chunk.js.LICENSE.txt",
+    "static/media/gmail.0678ea09.png": "/harsh212/meet_app.git/static/media/gmail.0678ea09.png",
+    "static/media/whatsapp.c75084c4.png": "/harsh212/meet_app.git/static/media/whatsapp.c75084c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58bab4b3.js",
+    "static/js/2.bb2630e9.chunk.js",
+    "static/css/main.e87468e7.chunk.css",
+    "static/js/main.2e0b40ad.chunk.js"
+  ]
+}
